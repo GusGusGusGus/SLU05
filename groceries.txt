@@ -3,3 +3,5 @@ bananas
 coffee
 chocolate
 heroin
+butter
+bubble-gum
